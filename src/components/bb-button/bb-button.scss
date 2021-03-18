@@ -1,0 +1,41 @@
+.bb-button {
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.primary {
+  background-color: $primary;
+}
+
+.secondary {
+  background-color: $secondary;
+}
+
+.success {
+  background-color: $success;
+}
+
+.error {
+  background-color: $error;
+}
+
+.big {
+  padding: 15px 20px;
+  font-size: 22px;
+}
+
+.small {
+  padding: 5px 10px;
+  font-size: 12px;
+}
+
+.full {
+  width: 100%;
+}
+
+
+
